@@ -1,0 +1,13 @@
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  font-family: monospace;
+  <!-- add color, size, click effect-->
+}
+
+a:hover{
+  background-color: #C6E9FF;
+}
